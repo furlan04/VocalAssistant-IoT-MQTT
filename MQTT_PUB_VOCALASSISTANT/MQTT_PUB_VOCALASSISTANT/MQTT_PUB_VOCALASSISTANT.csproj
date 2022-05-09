@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="M2Mqtt" Version="4.3.0" />
+    <PackageReference Include="Microsoft.CognitiveServices.Speech" Version="1.20.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="HttpProxyControl">
+      <HintPath>C:\Users\tiscr\OneDrive\Documenti\INFO_Compiti\AliceNeural\HttpProxyControl\bin\Debug\net5.0\HttpProxyControl.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

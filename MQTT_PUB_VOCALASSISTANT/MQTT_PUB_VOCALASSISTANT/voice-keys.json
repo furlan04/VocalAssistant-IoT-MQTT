@@ -1,0 +1,5 @@
+{
+  "api_key": "a728307079084f4690fc101138270953",
+  "region_location": "westeurope",
+  "endpoint": "https://westeurope.api.cognitive.microsoft.com/sts/v1.0/issuetoken"
+}

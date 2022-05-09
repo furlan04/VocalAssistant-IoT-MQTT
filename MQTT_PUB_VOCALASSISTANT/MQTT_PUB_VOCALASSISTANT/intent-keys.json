@@ -1,0 +1,11 @@
+{
+  "luis_app_name": "BOT_Luis_GF",
+  "luis_app_id": "0911dc78-6683-4d2c-bd01-3a1f50ad980f",
+  "luis_culture": "it-IT",
+  "azure_resource": {
+    "resource_name": "GruppoTest",
+    "api_key": "2fbed5d9470e4d6d9a86d81aebc3ff3b",
+    "region_location": "westeurope",
+    "endpoint": "https://myluisfurlan.cognitiveservices.azure.com/"
+  }
+}

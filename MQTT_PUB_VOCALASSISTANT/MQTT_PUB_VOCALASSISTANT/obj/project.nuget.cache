@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jt6jjrbMF4tmTvuIAN2EeFwAJE2xEFVd3NP6/SjFbIxcOITMHDSy32+tgoA9k6llVoIAdAEPJgid+AXxVHAZbw==",
+  "success": true,
+  "projectFilePath": "F:\\Scuola\\TPS\\CLOUD.LUIS\\MQTT_PUB_VOCALASSISTANT\\MQTT_PUB_VOCALASSISTANT\\MQTT_PUB_VOCALASSISTANT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiscr\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512",
+    "C:\\Users\\tiscr\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.20.0\\microsoft.cognitiveservices.speech.1.20.0.nupkg.sha512",
+    "C:\\Users\\tiscr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'M2Mqtt 4.3.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' e non mediante il framework di destinazione del progetto 'net5.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "M2Mqtt",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
